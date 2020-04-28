@@ -41,6 +41,6 @@ Workspace - Pycharm on Windows10
  
  ---------------------------------------------------------------------------------------------------------------------------------------
  
- *Note- I included some of my recent and more intresting projects. During my B.Sc I had much more assignments. If you wish me to upload more or send some of my other works to you via mail, feel free to send me a mail to ronger4@gmail.com.
+ *Note- I included some of my recent and more interesting projects. During my B.Sc I had much more assignments. If you wish me to upload more or send some of my other works to you via mail, feel free to send me a mail to ronger4@gmail.com.
  In addition I want to give credit to Tamara Baybachov, Matan Cohen and Ron Alter who were my partners in some of those works and projects.
 
