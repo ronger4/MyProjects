@@ -5,4 +5,4 @@ Computer Network 2 Project - Implementaion of client server model. Where the ser
 several clients can be maintained. Clients can upload new songs and new station is set when a new song is uploaded.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-
+Operating Systems - Simulation of a basic memory system, using multi-thread and multi-process programming.
