@@ -11,7 +11,9 @@ Compiler - GCC
 Operating Systems - Simulation of a basic memory system, using multi-thread and multi-process programming. 
 
 Language - C
+
 Workspace -Gedit on ubuntu 18.04
+
 Compiler - GCC
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -22,9 +24,13 @@ Microcontroller(MCU) - Texas Instruments MSP430
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Statistical Data Mining(Machine Learning) - 2 assignments that I got in the course. In the assigments we had to participate in Kaggle competition. Links to competition instructions are attached.
+
 Language - Python
+
 Workspace - Pycharm on Windows10
+
 1st assignment - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 2nd assignment - https://www.kaggle.com/c/ashrae-energy-prediction/
  
  
