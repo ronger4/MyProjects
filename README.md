@@ -3,8 +3,11 @@ This folder holds some of the projects and tasks that I'v worked on during my B.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Computer Networks 2 Project - Implementaion of client server model. Where the server maintance radio stations that broadcast music. The client intercepts udp packets and plays the music.
 several clients can be maintained. Clients can upload new songs and new station is set when a new song is uploaded.
+
 Language - C
+
 Workspace -Eclipse on ubuntu 17804
+
 Compiler - GCC
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -18,8 +21,11 @@ Compiler - GCC
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Embedded Systems - Project that implements "Tug Of War" game. Whoever clicks the button most wins.
+
 Language - C
+
 Workspace - Code Composer
+
 Microcontroller(MCU) - Texas Instruments MSP430
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -33,7 +39,7 @@ Workspace - Pycharm on Windows10
 
 2nd assignment - https://www.kaggle.com/c/ashrae-energy-prediction/
  
- 
+ ---------------------------------------------------------------------------------------------------------------------------------------
  
  *Note- I included some of my recent and more intresting projects. During my B.Sc I had much more assignments. If you wish me to upload more or send some of my other works to you via mail, feel free to send me a mail to ronger4@gmail.com.
  In addition I want to give credit to Tamara Baybachov, Matan Cohen and Ron Alter who were my partners in some of those works and projects.
