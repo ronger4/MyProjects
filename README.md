@@ -9,6 +9,7 @@ Compiler - GCC
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Operating Systems - Simulation of a basic memory system, using multi-thread and multi-process programming. 
+
 Language - C
 Workspace -Gedit on ubuntu 18.04
 Compiler - GCC
