@@ -6,7 +6,7 @@ several clients can be maintained. Clients can upload new songs and new station 
 
 Language - C
 
-Workspace -Eclipse on ubuntu 17804
+Workspace -Eclipse on ubuntu 18.04
 
 Compiler - GCC
 
