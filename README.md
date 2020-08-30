@@ -40,6 +40,15 @@ Workspace - Pycharm on Windows10
 2nd assignment - https://www.kaggle.com/c/ashrae-energy-prediction/
  
  ---------------------------------------------------------------------------------------------------------------------------------------
+ Final Project(Corn Classification Using Image Processing and Machine Learning) - We classified plants of corn watered with 5 different Irrigation levels.
+ In the begining we used image processing in MATLAB to extract features and insert them into CSV file. Next step was reading this CSV file in Python and creating machime     
+ learning model. We used LGBM framework that implements Gradiant Boost Decision Tree model. In the end we showed the results.
+ 
+ Langauges: MATLAB and Python
+ 
+ Workspace - MATLAB and Pycharm on Windows 10
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------
  
  *Note- I included some of my recent and more interesting projects. During my B.Sc I had much more assignments. If you wish me to upload more or send some of my other works to you via mail, feel free to send me a mail to ronger4@gmail.com.
  In addition I want to give credit to Tamara Baybachov, Matan Cohen and Ron Alter who were my partners in some of those works and projects.
